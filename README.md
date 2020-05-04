@@ -1,6 +1,6 @@
 # JourNear Neo
 
-An Android application to find travel partners without the need to staaying connected to the Internet. The app is compatible with devices running API level 22 or higher. 'Neo' in the name comes after multiple iterations of our original project JourNear.
+An Android application to find travel partners without the need to staying connected to the Internet. The app is compatible with devices running API level 22 or higher. 'Neo' in the name comes after multiple iterations of our original project JourNear.
 
 ## Features
 1. Journey broadcast to Nearby Devices using the app.
